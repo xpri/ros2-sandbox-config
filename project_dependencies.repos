@@ -1,0 +1,9 @@
+repositories:
+  cpp_talker_package:
+    type: git
+    url: https://github.com/xpri/cpp-talker-package.git
+    version: main
+  cpp_listener_package:
+    type: git
+    url: https://github.com/xpri/cpp-listener-package.git
+    version: main
